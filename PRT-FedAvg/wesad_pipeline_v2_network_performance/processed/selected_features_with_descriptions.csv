@@ -1,0 +1,41 @@
+feature,description,mutual_info,anova_f,extra_trees_importance,permutation_importance,combined_score,selected_order
+ACC_x__peak_mean_prominence,mean prominence of detected peaks of x-axis body acceleration.,0.591448763514415,776.722046414775,0.021991092940927874,0.0,0.964765100671141,1
+ACC_mag__mad,"median absolute deviation, robust variability of resultant acceleration magnitude.",0.5477627271324597,633.1397887508726,0.025958089870547825,0.0,0.9479865771812082,2
+ECG__rr_mean,mean interval between successive ECG peaks of electrocardiogram signal related to cardiac electrical activity.,0.5597826119240459,558.1408431097387,0.02038211795320791,0.0,0.9429530201342282,3
+ACC_mag__zero_cross_rate,rate of sign changes around the mean of resultant acceleration magnitude.,0.528206865428219,446.39591592463097,0.026765861339461842,0.0,0.936241610738255,4
+EDA__spectral_entropy,entropy of the normalized power spectrum of electrodermal activity signal related to sympathetic arousal and skin conductance.,0.4966971259516637,504.52984353974625,0.030841741873929015,0.0,0.9261744966442953,5
+ACC_z__peak_mean_prominence,mean prominence of detected peaks of z-axis body acceleration.,0.5373257288907634,403.0936396215932,0.014287788702776817,0.0,0.9177852348993288,6
+ECG__energy,average squared signal energy of electrocardiogram signal related to cardiac electrical activity.,0.5714251118121791,170.17830675872247,0.011989867278906746,0.0,0.9068791946308725,7
+ECG__kurtosis,distribution peakedness or tail heaviness of electrocardiogram signal related to cardiac electrical activity.,0.49520294668560516,265.6886796245934,0.01811590672978942,0.0,0.901006711409396,8
+ECG__skew,distribution asymmetry of electrocardiogram signal related to cardiac electrical activity.,0.5093951491597835,142.45805384751156,0.014909423246095533,0.0,0.8859060402684563,9
+EDA__max,maximum value in the window of electrodermal activity signal related to sympathetic arousal and skin conductance.,0.7170758540675872,69.12695956746995,0.009266850094273516,0.0,0.8791946308724832,10
+ECG__mad,"median absolute deviation, robust variability of electrocardiogram signal related to cardiac electrical activity.",0.4605465421595376,300.42356068544075,0.012513440751619007,0.0,0.87751677852349,11
+ACC_mag__min,minimum value in the window of resultant acceleration magnitude.,0.7474894879824894,182.69015426847548,0.006431925989855775,0.0,0.8758389261744967,12
+ACC_mag__peak_mean_prominence,mean prominence of detected peaks of resultant acceleration magnitude.,0.5557429370788938,64.10344598143502,0.01444812870150619,0.0,0.8674496644295302,13
+ACC_x__max,maximum value in the window of x-axis body acceleration.,0.657751343674637,114.4323033563506,0.0058236780816089025,0.0,0.8288590604026845,14
+ACC_y__peak_mean_prominence,mean prominence of detected peaks of y-axis body acceleration.,0.4606242651917525,252.4199957207313,0.007887148351505979,0.0,0.8187919463087248,15
+ECG__min,minimum value in the window of electrocardiogram signal related to cardiac electrical activity.,0.7396603052605419,87.86971067110264,0.005172701916438492,0.0,0.8171140939597316,16
+ACC_z__max,maximum value in the window of z-axis body acceleration.,0.7122442524696913,64.1827909427962,0.005989885565565057,0.0,0.8120805369127517,17
+ACC_z__energy,average squared signal energy of z-axis body acceleration.,0.4663900712630147,67.37382869843351,0.009072893804199162,0.0,0.8003355704697986,18
+ECG__zero_cross_rate,rate of sign changes around the mean of electrocardiogram signal related to cardiac electrical activity.,0.39631732649219,160.43184067899014,0.011166172106450389,0.0,0.7919463087248322,19
+ACC_x__zero_cross_rate,rate of sign changes around the mean of x-axis body acceleration.,0.4396574883148372,149.23234831610424,0.008179615975344732,0.0,0.785234899328859,20
+ACC_mag__spectral_entropy,entropy of the normalized power spectrum of resultant acceleration magnitude.,0.46769110956902593,149.62408308045028,0.00609413985331107,0.0,0.7835570469798658,21
+ECG__range,maximum minus minimum amplitude of electrocardiogram signal related to cardiac electrical activity.,0.6560111851463688,47.43148159896921,0.005701139284467193,0.0,0.7751677852348993,22
+EDA__zero_cross_rate,rate of sign changes around the mean of electrodermal activity signal related to sympathetic arousal and skin conductance.,0.3817798251660316,175.70594885475367,0.00910095794604896,0.0,0.7684563758389262,23
+ECG__pnn50,percentage of successive RR intervals differing by more than 50 ms of electrocardiogram signal related to cardiac electrical activity.,0.43961437958456084,87.75790292138349,0.006501413353207033,0.0,0.7399328859060402,24
+EDA__peak_mean_prominence,mean prominence of detected peaks of electrodermal activity signal related to sympathetic arousal and skin conductance.,0.47421674007446346,18.086025005159417,0.011756559692055503,0.0,0.7399328859060402,25
+ACC_z__mean,average value in the window of z-axis body acceleration.,0.47550863348886274,44.044783864518415,0.007327548621639532,0.0,0.738255033557047,26
+EMG__peak_mean_prominence,mean prominence of detected peaks of electromyography signal related to muscle activity.,0.403550529914086,55.61072207832529,0.00908830042937745,0.0,0.7348993288590604,27
+ACC_mag__rms,root mean square signal magnitude of resultant acceleration magnitude.,0.4774266897929691,25.46486139832792,0.00876829616876698,0.0,0.7348993288590604,28
+ACC_y__max,maximum value in the window of y-axis body acceleration.,0.5786752024269497,49.266798084025744,0.004140410692276545,0.0,0.7130872483221476,29
+EDA__std,"standard deviation, measuring variability of electrodermal activity signal related to sympathetic arousal and skin conductance.",0.441249028887462,108.50447449930459,0.005069445684389404,0.0,0.7114093959731543,30
+EMG__zero_cross_rate,rate of sign changes around the mean of electromyography signal related to muscle activity.,0.3952734787811598,53.99979188269132,0.008090379590044394,0.0,0.6963087248322148,31
+EMG__mean,average value in the window of electromyography signal related to muscle activity.,0.4646497448146667,9.077867649498435,0.009519094854612222,0.0,0.6879194630872483,32
+EMG__std,"standard deviation, measuring variability of electromyography signal related to muscle activity.",0.3969251494384016,42.4174628175122,0.008698802443467359,0.0,0.6879194630872483,33
+ACC_z__min,minimum value in the window of z-axis body acceleration.,0.652707479689774,7.386596068660355,0.006133170858849759,0.0,0.674496644295302,34
+EMG__dominant_freq,frequency with the highest spectral power of electromyography signal related to muscle activity.,0.3233806688107055,63.797916955320396,0.00865669946404078,0.0,0.6677852348993288,35
+ACC_mag__peak_count,number of detected local peaks of resultant acceleration magnitude.,0.2556409964430242,170.3620385536076,0.006485619111908946,0.0,0.6610738255033557,36
+ACC_x__mad,"median absolute deviation, robust variability of x-axis body acceleration.",0.3274109281031148,124.06591479680473,0.0058766479077664155,0.0,0.6577181208053691,37
+ACC_y__zero_cross_rate,rate of sign changes around the mean of y-axis body acceleration.,0.3744746066275151,48.56353140430699,0.0075012934763334545,0.0,0.6577181208053691,38
+ACC_z__zero_cross_rate,rate of sign changes around the mean of z-axis body acceleration.,0.4174997995249441,53.32983606186471,0.005020795522768863,0.0,0.6560402684563759,39
+EMG__range,maximum minus minimum amplitude of electromyography signal related to muscle activity.,0.5557270352646182,19.47790048042026,0.0043902951140653195,0.0,0.6476510067114094,40
