@@ -1,0 +1,164 @@
+feature,description
+ACC_mag__dominant_freq,frequency with the highest spectral power of resultant acceleration magnitude.
+ACC_mag__energy,average squared signal energy of resultant acceleration magnitude.
+ACC_mag__high_band_power,power in the high-frequency band of resultant acceleration magnitude.
+ACC_mag__iqr,"interquartile range, robust spread of resultant acceleration magnitude."
+ACC_mag__kurtosis,distribution peakedness or tail heaviness of resultant acceleration magnitude.
+ACC_mag__low_band_power,power in the low-frequency band of resultant acceleration magnitude.
+ACC_mag__mad,"median absolute deviation, robust variability of resultant acceleration magnitude."
+ACC_mag__max,maximum value in the window of resultant acceleration magnitude.
+ACC_mag__mean,average value in the window of resultant acceleration magnitude.
+ACC_mag__median,"median value, robust central tendency of resultant acceleration magnitude."
+ACC_mag__mid_band_power,power in the mid-frequency band of resultant acceleration magnitude.
+ACC_mag__min,minimum value in the window of resultant acceleration magnitude.
+ACC_mag__peak_count,number of detected local peaks of resultant acceleration magnitude.
+ACC_mag__peak_mean_prominence,mean prominence of detected peaks of resultant acceleration magnitude.
+ACC_mag__peak_rate,detected peaks per second of resultant acceleration magnitude.
+ACC_mag__range,maximum minus minimum amplitude of resultant acceleration magnitude.
+ACC_mag__rms,root mean square signal magnitude of resultant acceleration magnitude.
+ACC_mag__skew,distribution asymmetry of resultant acceleration magnitude.
+ACC_mag__slope,linear trend across the window of resultant acceleration magnitude.
+ACC_mag__spectral_entropy,entropy of the normalized power spectrum of resultant acceleration magnitude.
+ACC_mag__std,"standard deviation, measuring variability of resultant acceleration magnitude."
+ACC_mag__zero_cross_rate,rate of sign changes around the mean of resultant acceleration magnitude.
+ACC_x__dominant_freq,frequency with the highest spectral power of x-axis body acceleration.
+ACC_x__energy,average squared signal energy of x-axis body acceleration.
+ACC_x__high_band_power,power in the high-frequency band of x-axis body acceleration.
+ACC_x__iqr,"interquartile range, robust spread of x-axis body acceleration."
+ACC_x__kurtosis,distribution peakedness or tail heaviness of x-axis body acceleration.
+ACC_x__low_band_power,power in the low-frequency band of x-axis body acceleration.
+ACC_x__mad,"median absolute deviation, robust variability of x-axis body acceleration."
+ACC_x__max,maximum value in the window of x-axis body acceleration.
+ACC_x__mean,average value in the window of x-axis body acceleration.
+ACC_x__median,"median value, robust central tendency of x-axis body acceleration."
+ACC_x__mid_band_power,power in the mid-frequency band of x-axis body acceleration.
+ACC_x__min,minimum value in the window of x-axis body acceleration.
+ACC_x__peak_count,number of detected local peaks of x-axis body acceleration.
+ACC_x__peak_mean_prominence,mean prominence of detected peaks of x-axis body acceleration.
+ACC_x__peak_rate,detected peaks per second of x-axis body acceleration.
+ACC_x__range,maximum minus minimum amplitude of x-axis body acceleration.
+ACC_x__rms,root mean square signal magnitude of x-axis body acceleration.
+ACC_x__skew,distribution asymmetry of x-axis body acceleration.
+ACC_x__slope,linear trend across the window of x-axis body acceleration.
+ACC_x__spectral_entropy,entropy of the normalized power spectrum of x-axis body acceleration.
+ACC_x__std,"standard deviation, measuring variability of x-axis body acceleration."
+ACC_x__zero_cross_rate,rate of sign changes around the mean of x-axis body acceleration.
+ACC_y__dominant_freq,frequency with the highest spectral power of y-axis body acceleration.
+ACC_y__energy,average squared signal energy of y-axis body acceleration.
+ACC_y__high_band_power,power in the high-frequency band of y-axis body acceleration.
+ACC_y__iqr,"interquartile range, robust spread of y-axis body acceleration."
+ACC_y__kurtosis,distribution peakedness or tail heaviness of y-axis body acceleration.
+ACC_y__low_band_power,power in the low-frequency band of y-axis body acceleration.
+ACC_y__mad,"median absolute deviation, robust variability of y-axis body acceleration."
+ACC_y__max,maximum value in the window of y-axis body acceleration.
+ACC_y__mean,average value in the window of y-axis body acceleration.
+ACC_y__median,"median value, robust central tendency of y-axis body acceleration."
+ACC_y__mid_band_power,power in the mid-frequency band of y-axis body acceleration.
+ACC_y__min,minimum value in the window of y-axis body acceleration.
+ACC_y__peak_count,number of detected local peaks of y-axis body acceleration.
+ACC_y__peak_mean_prominence,mean prominence of detected peaks of y-axis body acceleration.
+ACC_y__peak_rate,detected peaks per second of y-axis body acceleration.
+ACC_y__range,maximum minus minimum amplitude of y-axis body acceleration.
+ACC_y__rms,root mean square signal magnitude of y-axis body acceleration.
+ACC_y__skew,distribution asymmetry of y-axis body acceleration.
+ACC_y__slope,linear trend across the window of y-axis body acceleration.
+ACC_y__spectral_entropy,entropy of the normalized power spectrum of y-axis body acceleration.
+ACC_y__std,"standard deviation, measuring variability of y-axis body acceleration."
+ACC_y__zero_cross_rate,rate of sign changes around the mean of y-axis body acceleration.
+ACC_z__dominant_freq,frequency with the highest spectral power of z-axis body acceleration.
+ACC_z__energy,average squared signal energy of z-axis body acceleration.
+ACC_z__high_band_power,power in the high-frequency band of z-axis body acceleration.
+ACC_z__iqr,"interquartile range, robust spread of z-axis body acceleration."
+ACC_z__kurtosis,distribution peakedness or tail heaviness of z-axis body acceleration.
+ACC_z__low_band_power,power in the low-frequency band of z-axis body acceleration.
+ACC_z__mad,"median absolute deviation, robust variability of z-axis body acceleration."
+ACC_z__max,maximum value in the window of z-axis body acceleration.
+ACC_z__mean,average value in the window of z-axis body acceleration.
+ACC_z__median,"median value, robust central tendency of z-axis body acceleration."
+ACC_z__mid_band_power,power in the mid-frequency band of z-axis body acceleration.
+ACC_z__min,minimum value in the window of z-axis body acceleration.
+ACC_z__peak_count,number of detected local peaks of z-axis body acceleration.
+ACC_z__peak_mean_prominence,mean prominence of detected peaks of z-axis body acceleration.
+ACC_z__peak_rate,detected peaks per second of z-axis body acceleration.
+ACC_z__range,maximum minus minimum amplitude of z-axis body acceleration.
+ACC_z__rms,root mean square signal magnitude of z-axis body acceleration.
+ACC_z__skew,distribution asymmetry of z-axis body acceleration.
+ACC_z__slope,linear trend across the window of z-axis body acceleration.
+ACC_z__spectral_entropy,entropy of the normalized power spectrum of z-axis body acceleration.
+ACC_z__std,"standard deviation, measuring variability of z-axis body acceleration."
+ACC_z__zero_cross_rate,rate of sign changes around the mean of z-axis body acceleration.
+ECG__dominant_freq,frequency with the highest spectral power of electrocardiogram signal related to cardiac electrical activity.
+ECG__energy,average squared signal energy of electrocardiogram signal related to cardiac electrical activity.
+ECG__high_band_power,power in the high-frequency band of electrocardiogram signal related to cardiac electrical activity.
+ECG__hr_mean,estimated mean heart rate from ECG peaks of electrocardiogram signal related to cardiac electrical activity.
+ECG__hr_std,variability of estimated heart rate of electrocardiogram signal related to cardiac electrical activity.
+ECG__iqr,"interquartile range, robust spread of electrocardiogram signal related to cardiac electrical activity."
+ECG__kurtosis,distribution peakedness or tail heaviness of electrocardiogram signal related to cardiac electrical activity.
+ECG__low_band_power,power in the low-frequency band of electrocardiogram signal related to cardiac electrical activity.
+ECG__mad,"median absolute deviation, robust variability of electrocardiogram signal related to cardiac electrical activity."
+ECG__max,maximum value in the window of electrocardiogram signal related to cardiac electrical activity.
+ECG__mean,average value in the window of electrocardiogram signal related to cardiac electrical activity.
+ECG__median,"median value, robust central tendency of electrocardiogram signal related to cardiac electrical activity."
+ECG__mid_band_power,power in the mid-frequency band of electrocardiogram signal related to cardiac electrical activity.
+ECG__min,minimum value in the window of electrocardiogram signal related to cardiac electrical activity.
+ECG__peak_count,number of detected local peaks of electrocardiogram signal related to cardiac electrical activity.
+ECG__peak_mean_prominence,mean prominence of detected peaks of electrocardiogram signal related to cardiac electrical activity.
+ECG__peak_rate,detected peaks per second of electrocardiogram signal related to cardiac electrical activity.
+ECG__pnn50,percentage of successive RR intervals differing by more than 50 ms of electrocardiogram signal related to cardiac electrical activity.
+ECG__range,maximum minus minimum amplitude of electrocardiogram signal related to cardiac electrical activity.
+ECG__rms,root mean square signal magnitude of electrocardiogram signal related to cardiac electrical activity.
+ECG__rmssd,root mean square of successive RR interval differences; short-term HRV of electrocardiogram signal related to cardiac electrical activity.
+ECG__rr_mean,mean interval between successive ECG peaks of electrocardiogram signal related to cardiac electrical activity.
+ECG__rr_std,standard deviation of beat-to-beat intervals of electrocardiogram signal related to cardiac electrical activity.
+ECG__sdnn,standard deviation of NN/RR intervals; HRV marker of electrocardiogram signal related to cardiac electrical activity.
+ECG__skew,distribution asymmetry of electrocardiogram signal related to cardiac electrical activity.
+ECG__slope,linear trend across the window of electrocardiogram signal related to cardiac electrical activity.
+ECG__spectral_entropy,entropy of the normalized power spectrum of electrocardiogram signal related to cardiac electrical activity.
+ECG__std,"standard deviation, measuring variability of electrocardiogram signal related to cardiac electrical activity."
+ECG__zero_cross_rate,rate of sign changes around the mean of electrocardiogram signal related to cardiac electrical activity.
+EDA__dominant_freq,frequency with the highest spectral power of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__eda_peak_rate,skin conductance response peak rate of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__eda_slope,trend in skin conductance over the window of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__energy,average squared signal energy of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__high_band_power,power in the high-frequency band of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__iqr,"interquartile range, robust spread of electrodermal activity signal related to sympathetic arousal and skin conductance."
+EDA__kurtosis,distribution peakedness or tail heaviness of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__low_band_power,power in the low-frequency band of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__mad,"median absolute deviation, robust variability of electrodermal activity signal related to sympathetic arousal and skin conductance."
+EDA__max,maximum value in the window of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__mean,average value in the window of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__median,"median value, robust central tendency of electrodermal activity signal related to sympathetic arousal and skin conductance."
+EDA__mid_band_power,power in the mid-frequency band of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__min,minimum value in the window of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__peak_count,number of detected local peaks of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__peak_mean_prominence,mean prominence of detected peaks of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__peak_rate,detected peaks per second of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__range,maximum minus minimum amplitude of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__rms,root mean square signal magnitude of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__skew,distribution asymmetry of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__slope,linear trend across the window of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__spectral_entropy,entropy of the normalized power spectrum of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EDA__std,"standard deviation, measuring variability of electrodermal activity signal related to sympathetic arousal and skin conductance."
+EDA__zero_cross_rate,rate of sign changes around the mean of electrodermal activity signal related to sympathetic arousal and skin conductance.
+EMG__dominant_freq,frequency with the highest spectral power of electromyography signal related to muscle activity.
+EMG__energy,average squared signal energy of electromyography signal related to muscle activity.
+EMG__high_band_power,power in the high-frequency band of electromyography signal related to muscle activity.
+EMG__iqr,"interquartile range, robust spread of electromyography signal related to muscle activity."
+EMG__kurtosis,distribution peakedness or tail heaviness of electromyography signal related to muscle activity.
+EMG__low_band_power,power in the low-frequency band of electromyography signal related to muscle activity.
+EMG__mad,"median absolute deviation, robust variability of electromyography signal related to muscle activity."
+EMG__max,maximum value in the window of electromyography signal related to muscle activity.
+EMG__mean,average value in the window of electromyography signal related to muscle activity.
+EMG__median,"median value, robust central tendency of electromyography signal related to muscle activity."
+EMG__mid_band_power,power in the mid-frequency band of electromyography signal related to muscle activity.
+EMG__min,minimum value in the window of electromyography signal related to muscle activity.
+EMG__peak_count,number of detected local peaks of electromyography signal related to muscle activity.
+EMG__peak_mean_prominence,mean prominence of detected peaks of electromyography signal related to muscle activity.
+EMG__peak_rate,detected peaks per second of electromyography signal related to muscle activity.
+EMG__range,maximum minus minimum amplitude of electromyography signal related to muscle activity.
+EMG__rms,root mean square signal magnitude of electromyography signal related to muscle activity.
+EMG__skew,distribution asymmetry of electromyography signal related to muscle activity.
+EMG__slope,linear trend across the window of electromyography signal related to muscle activity.
+EMG__spectral_entropy,entropy of the normalized power spectrum of electromyography signal related to muscle activity.
+EMG__std,"standard deviation, measuring variability of electromyography signal related to muscle activity."
+EMG__zero_cross_rate,rate of sign changes around the mean of electromyography signal related to muscle activity.

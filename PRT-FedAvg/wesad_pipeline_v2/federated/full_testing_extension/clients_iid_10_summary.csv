@@ -1,0 +1,11 @@
+client_id,n_samples,sovereignty_group,is_malicious,n_subjects,class_amusement,class_baseline,class_stress
+C000,252,G0,False,15,84,84,84
+C001,252,G1,False,15,84,84,84
+C002,252,G2,False,15,84,84,84
+C003,252,G3,False,15,84,84,84
+C004,252,G0,False,15,84,84,84
+C005,249,G1,False,15,83,83,83
+C006,249,G2,False,15,83,83,83
+C007,249,G3,False,15,83,83,83
+C008,249,G0,False,15,83,83,83
+C009,249,G1,False,15,83,83,83
